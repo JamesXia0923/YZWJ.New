@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.50727</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{EF7633E1-D1D3-4C71-AA49-42C07E3621AA}</ProjectGuid>
+    <ProjectGuid>{BA91C080-7EB7-4A61-B6EC-A8ED4D0B1DDF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>YZWJ.New.Service</RootNamespace>
