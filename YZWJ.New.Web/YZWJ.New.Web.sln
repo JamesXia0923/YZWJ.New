@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YZWJ.New.Web.MVC", "YZWJ.New.Web\YZWJ.New.Web.MVC.csproj", "{A0B7F5A6-8C9F-43C7-8BFE-4DEC95CF615D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YZWJ.New.Web.EF", "YZWJ.New.Web.EF\YZWJ.New.Web.EF.csproj", "{B5A81586-EEFB-4F48-8127-12521FDEC47A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YZWJ.New.Web.DAL", "YZWJ.New.Web.EF\YZWJ.New.Web.DAL.csproj", "{B5A81586-EEFB-4F48-8127-12521FDEC47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YZWJ.New.Web.Service", "YZWJ.New.Service\YZWJ.New.Web.Service.csproj", "{BA91C080-7EB7-4A61-B6EC-A8ED4D0B1DDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YZWJ.New.Web.BLL", "YZWJ.New.Service\YZWJ.New.Web.BLL.csproj", "{BA91C080-7EB7-4A61-B6EC-A8ED4D0B1DDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
